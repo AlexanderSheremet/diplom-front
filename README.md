@@ -1,5 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/sjk77bttgl8l73u0?svg=true)](https://ci.appveyor.com/project/AlexanderSheremet/diplom-front)
-
+https://alexandersheremet.github.io/diplom-front/
 ## Выполнены реализованные функции:
 
 1. Сохранение в истории ссылок и текстовых сообщений --> Здесь ввод осуществляется в поле внизу и сохраняется после нажатия Enter.
